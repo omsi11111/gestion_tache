@@ -20,7 +20,7 @@ Avant de commencer, assurez-vous d'avoir installé les outils suivants sur votre
 
 ## Installation 🔧
 
-### 1. Cloner le projet
+### Cloner le projet
 
 Clonez ce repository sur votre machine locale :
 
